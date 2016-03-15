@@ -16,32 +16,31 @@
 
 #footer {
 	background-color: #C3D9EE;
-	height: 100px;
+	height: 150px;
 	width: auto;
 }
 
 #type{
-	padding-top: 70px;
+	padding-top: 50px;
 	padding-left: 10px;
 
 
 }
-hr {
-	display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
-    background-color: #2fc5b2;
-}
 
 #headleft {
 	float: left;
+	padding: 0;
+	padding-left: 20px;
 }
 
 #headright {
 	float: right;
-	padding-top: 75px;
+	padding-top: 50px;
+	padding-right: 20px;
+
+}
+
+h1 {
+	padding: 0;
+	margin: 0px;
 }
