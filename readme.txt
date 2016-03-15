@@ -14,5 +14,14 @@ just download and give it a try.
 if you guys want to work then you can see the code of connection1.php code and make a table for patient 
 then make a file connection2.php and write your code to register a patient.
 
+for the database:
+-----------------
+
+1) create a database named project 
+2) import the table project
+
+ 
 have fun guys...
+
+
  
