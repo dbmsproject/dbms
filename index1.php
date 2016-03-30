@@ -87,7 +87,7 @@
 				        <h4 class="modal-title" id="myModalLabel">Register As Doctor </h4>
 				        <p>Register to view the Details of your patient</p>
 				        <br>
-				        	<form action="connection1.php" method="POST"class="form-horizontal">
+				        	<form action="connection1.php" method="POST" class="form-horizontal">
 				        		<div class="form-group">
    									 <label for="inputText3" class="col-sm-2 control-label"> Doctor ID</label>
     								<div class="col-sm-10">
@@ -169,7 +169,7 @@
 				        <h4 class="modal-title" id="myModalLabel">Register A Patient  </h4>
 				        <p>You can register a patient to this site so that you can view all of your details online</p>
 				        <br>
-				        	<form class="form-horizontal">
+				        	<form action="connection2.php" method="POST" class="form-horizontal">
 				        		<div class="form-group">
    									 <label for="inputText3" class="col-sm-2 control-label">First Name</label>
     								<div class="col-sm-10">
@@ -307,7 +307,7 @@
   								</div>
  								<div class="form-group">
     								<div class="col-sm-offset-2 col-sm-10">
-      									<button type="submit" class="btn btn-default">Register</button>
+      									<button type="submit" class="btn btn-default" id="button" name ="submit" value="register">Register</button>
     								</div>
   								</div>
 							</form>
