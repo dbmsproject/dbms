@@ -20,6 +20,12 @@ for the database:
 1) create a database named project 
 2) import the table project
 
+update 2:
+=========
+
+created the database for the patient but it is not fully woring now :-p
+
+
  
 have fun guys...
 
