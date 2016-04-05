@@ -40,9 +40,9 @@
 				</nav>
 			</div>
 		</div>
-		<div id ="content">
-			
-		</div>
-		<div id="footer"></div>
-	</body>
+    <div id="content">
+    </div>
+    <div id="footer">
+    </div>
+  </body>
 </html>
